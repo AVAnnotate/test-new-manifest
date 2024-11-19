@@ -1,0 +1,3303 @@
+{
+  "event_id": "2c87f3fc-5f47-425f-a905-b39cfe596941",
+  "source_id": "4d4912b1-154d-4de5-a23b-42dd054b1c5f",
+  "set": "EdmontonPoets-Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 5.969,
+      "end_time": 17,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Hello everyone and welcome! My name is Michael O'Driscoll, and I'm a professor of English at the University of Alberta in Edmonton, Canada and a governing board member of the SpokenWeb research network."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ae271dd-f644-44ab-83a4-a96c65621983"
+    },
+    {
+      "start_time": 17,
+      "end_time": 41.5,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  I'd like to begin by acknowledging the indigenous peoples of all the lands that we are on today. Given that we meet here on a virtual platform I would like to take a moment to acknowledge the importance of the land that we each call home. We do this to reaffirm our commitment and responsibility in improving relationships between nations and to improving our own understanding of local indigenous peoples and their cultures."
+        }
+      ],
+      "tags": [],
+      "uuid": "05f96ff7-c4ad-41bd-b3f3-4c4d090b01c3"
+    },
+    {
+      "start_time": 41.5,
+      "end_time": 69.556,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  From coast to coast to coast we acknowledge the ancestral and unceded territory of all Inuit, Métis, and First Nations that call this home. The University of Alberta is located on Treaty 6 territory and the Métis Nation Homeland. I invite each of you to consider the traditional lands on which you might be located and take a moment to consider the responsibilities that follow from that."
+        }
+      ],
+      "tags": [],
+      "uuid": "10439c0b-aeb3-47fa-85b0-ba21edee1dc9"
+    },
+    {
+      "start_time": 69.556,
+      "end_time": 89.5,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  The SSHRC-funded SpokenWeb partnership brings together literary scholars and digital humanists, librarians and archivists, media historians, sound artists, oral historians, designers, programmers, poets,musicians, cultural activists, and performers to learn about, share, and study literary sound recordings."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ff9c5f0-bf96-40c5-a57d-7a68e431ab84"
+    },
+    {
+      "start_time": 89.5,
+      "end_time": 115.5,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  We are committed to the development, preservation, accessibility, and study of literary audio. And to that end our researchers and students are building a national network of literary audio, recovering and digitizing thousands of literary performances from the magnetic tape era, that is reel-to-reel and cassette tape recordings that together comprise a vast and important cultural heritage."
+        }
+      ],
+      "tags": [],
+      "uuid": "8af39eb3-1677-4fa4-9e7c-1e29994c96d7"
+    },
+    {
+      "start_time": 115.5,
+      "end_time": 147,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  But we're also very much engaged in the current moment of creation and to that end we support and celebrate literary performances such as this, recording and preserving them for posterity. SpokenWeb's Archive of the Present, developed by our project center at Concordia University, Montreal, preserves digital sound recordings, video, and print materials that document SpokenWeb events produced across the research network. To learn more about SpokenWeb you can visit us at spokenweb.ca."
+        }
+      ],
+      "tags": [],
+      "uuid": "130d3bce-0789-4621-bff8-38aeb936f399"
+    },
+    {
+      "start_time": 147,
+      "end_time": 173,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  I'd like now to introduce Dr. Uche Umezurike, Provost's Postdoctoral Fellow at the University of Calgary and our host for today's event. Uche is a dear friend and a cherished colleague who many of you know is both an award-winning scholar, amongst his many achievements he was awarded the 2021 Nigeria prize for literary criticism, and as a celebrated author of poetry, fiction and children's books."
+        }
+      ],
+      "tags": [],
+      "uuid": "d6841a41-8c26-40a4-a74e-80a5ae98722e"
+    },
+    {
+      "start_time": 173,
+      "end_time": 191,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  His most recent publication is Double Wahala, Double Trouble, a collection of short stories that I can personally attest are absolutely brilliantly crafted with sparkling prose and deftly drawn characters caught up in often surprising and revealing and moving circumstances."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba54bc3a-ff91-4365-b333-626093b1cbf9"
+    },
+    {
+      "start_time": 191,
+      "end_time": 209.849,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  But Uche is also an incredibly generous creative artist who works with commitment and grace to support those around him, conducting numerous interviews, gathering their work together, and agreeing to be our host for today. Please welcome Uche Umezurike."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee881fa1-12e5-4442-b686-955406a4c3b6"
+    },
+    {
+      "start_time": 209.849,
+      "end_time": 216,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Mike. I really appreciates those wonderful, heartlifting words."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3892a4e-43cc-4a6e-b883-592c49556b91"
+    },
+    {
+      "start_time": 216,
+      "end_time": 236.629,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Welcome everyone! I'm Uche Umezurike. I will be playing host for today's events I hope you're all doing well. I'm super excited that you're able to join us today and listen to Ifeoma Chinwuba and Titilope Sonuga, two amazing Nigerian Canadian writers, to talk about your work and vision."
+        }
+      ],
+      "tags": [],
+      "uuid": "f76abbec-3943-4a71-88df-4ba474afa3f0"
+    },
+    {
+      "start_time": 236.629,
+      "end_time": 251.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  I'm super excited to introduce our guests writers Ifeoma Chinwuba and Titilope Sonuga. Before I turn things over to them please join me in virtually welcoming both of them. Let me briefly read their bios."
+        }
+      ],
+      "tags": [],
+      "uuid": "a48d0171-4b47-4648-9213-14d4565b41a1"
+    },
+    {
+      "start_time": 251.5,
+      "end_time": 274.56,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  I'll begin with Ifeoma Chinwuba, who is currently the writer-in-residence in the Department of English and Film Studies at the University of Alberta. She's an accomplished diplomat who has travelled to more than sixty countries in the world. She's also a celebrated novelist,poet, essayist, and literary critic."
+        }
+      ],
+      "tags": [],
+      "uuid": "6a98ac12-9a5e-4fba-a7ee-2b48565eacc2"
+    },
+    {
+      "start_time": 274.56,
+      "end_time": 300.93,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " Ifeoma is the author of five wonderful books including three award-winning novels, namely Merchants of Flesh, which won the Association of Nigerian Authors Prose Prize in 2004,Fearless, and Waiting for Maria, which also won the Association of Nigerian Authors Prose Prize in 2008, and this same book was nominated for the Commonwealth Writers Prize in that same year."
+        }
+      ],
+      "tags": [],
+      "uuid": "6bfda025-0625-41e8-9f3f-42ecb27fd63c"
+    },
+    {
+      "start_time": 300.93,
+      "end_time": 322,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Ifeoma is also the author of African Romance, an epic poem in dialogue, which is by turns funny and scathing. And she's also published a true verse novella titled Head Boy, and thank you very much Ifeoma for gifting me a copy of that."
+        }
+      ],
+      "tags": [],
+      "uuid": "bfccdc32-56ff-48fe-9369-e433d0927f2d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " So, Titilope Sonuga, she's currently the City of Edmonton Poet Laureate. She's also a celebrated poet, playwright, and performer. And I'm if I'm not mistaken she has also dabbled in acting and Nollywood, which is the equivalent of Hollywood or Bollywood for those who are not familiar the Nigerian film industry. Titilope has performed her poetry in Africa, Europe, North America, and she is the author of three poetry collections, namely Down to Earth, Abscess, and This is How We Disappear."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0a685e8-7894-4513-ac88-32db648f9f97"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " In addition, Titilope has also composed and released two spoken word albums titled Mother Tongue and Swim. And both spoken word albums are online on YouTube. You can maybe after the program just check them out. They are beautiful, visually appealing, and they of course wonderful renditions of the poems by Titilope."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b936504-b6ab-43f2-8153-2dc488336570"
+    },
+    {
+      "start_time": 390.649,
+      "end_time": 414.25,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  I should add that Titilope has published three plays, namely The Six, Naked, and a musical titled Ada The Country. Her writing has been trusted into Italian, German,and Slovak. So, again thank you for coming to today's events, Ifeoma and Titilope."
+        }
+      ],
+      "tags": [],
+      "uuid": "6aad5d56-7432-454a-b4bb-5f882b1b02aa"
+    },
+    {
+      "start_time": 414.25,
+      "end_time": 441.42,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  We'll now invite Titilope for a reading, just for five minutes. And after Titilope finishes reading, Ifeoma will go next. And after that, we'll have some conversations around their work, their social vision, and what they currently do in Edmonton. So, thank you again, Ifeoma and Titilope. So, Titilope I invite you to please read your work."
+        }
+      ],
+      "tags": [],
+      "uuid": "ce48c34a-3e02-4dcb-b172-baa13eb825e9"
+    },
+    {
+      "start_time": 441.42,
+      "end_time": 456.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you, and I just wanted to say that it's an honor to share the stage with, with you. It's a rare treat to have three Nigerian writers in the same space, in another country, in another continent, and thank you to the U of A and SpokenWeb for making this possible."
+        }
+      ],
+      "tags": [],
+      "uuid": "cfbc6e4c-c48e-4a77-86c4-973064076e7c"
+    },
+    {
+      "start_time": 456.5,
+      "end_time": 480.329,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " So, we're doing things a bit differently by each starting with poems that are urgent and relevant to us in this time. So, this isn't my work but as a woman and a mother who is raising small children in a pandemic this poem y Maggie Smith called Interrogators of Orchids is one that feels very timely for me in this time. And so here it goes."
+        }
+      ],
+      "tags": [],
+      "uuid": "ced5f1f3-3355-4b39-9f2b-747ac347cd9b"
+    },
+    {
+      "start_time": 480.329,
+      "end_time": 507,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  What do we do we? We birth new citizens and answer their bodies with our bodies we rock the new citizens to sleep. We clothe them with skin and stamp their passports with milk. We teach the new citizens to walk and speak. We show them orchids and ask, what do they look like? What would you ask an orchid if we could ask it anything?"
+        }
+      ],
+      "tags": [],
+      "uuid": "22d317f8-92b2-41d8-8699-0159d6d17426"
+    },
+    {
+      "start_time": 507,
+      "end_time": 536,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  We show them wind and light in the trees and ask, what does it sound like? We hold their hands in our hands and rub their palms together in small circles and ask, do you hear the leaves touching each other? We teach the new citizens to question landscape. We teach them to love by questioning, and they ask where was I before this place, before your body, before before."
+        }
+      ],
+      "tags": [],
+      "uuid": "978df233-aa28-423a-886f-c2810b432033"
+    },
+    {
+      "start_time": 536,
+      "end_time": 565.45,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  We birth the new citizens, interrogators of orchids, interrogators of air, and bring them as far as we can. We bring them into a kind of border signed and stamped. The world is a letter we leave them to steam open. We let them see dappled shadow under the trees and ask, how does the lights not lose its patience between the sky and the ground? Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "c9174bdb-67f9-4b91-b852-d51da2c16eb9"
+    },
+    {
+      "start_time": 565.45,
+      "end_time": 581,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much Titilope for that amazing performance of Maggie Smith's poem. Ifeoma, I would like to invite you to read your own poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "1f5256a8-6171-4d6a-9d65-26d513398ff9"
+    },
+    {
+      "start_time": 581,
+      "end_time": 624,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Uche. Thank you Titi Sonuga for this collaboration together. As I usually do I like to thank the University of Alberta Department of English and Film Studies for the opportunity. Having me as your writer-in-residence, enabling me to meet the Edmonton... Let's me focus on on writing. Forget the distractions of daily living. So, I'm very grateful for the Department of English and Film Studies of the University of Alberta."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b163684-5e5c-45ab-a2ac-ebfe9fb0c77a"
+    },
+    {
+      "start_time": 624,
+      "end_time": 662.12,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  The poem that I'm going to read now is The Solitary Reaper by William Wordsworth. Uche, you said we would start this event by recalling poems, poets that have influenced us, that resonate with us, and so my choice really is without hesitation is Solitary Reaper by William Wordsworth. I'm going to stand up. The Solitary Reaper by William Wordsworth."
+        }
+      ],
+      "tags": [],
+      "uuid": "e5bbb68b-02d6-4128-95da-68663ea23762"
+    },
+    {
+      "start_time": 662.12,
+      "end_time": 683,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Behold her, single in the field, Yon solitary Highland Lass! Reaping and singing by herself; Stop there, or gently pass! Alone she cuts and binds the grain, and sings a meloncholy strain;"
+        }
+      ],
+      "tags": [],
+      "uuid": "879ec8f2-b3a5-4983-8147-333ac779ab71"
+    },
+    {
+      "start_time": 683,
+      "end_time": 719.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  O listen! For the Vale profound is overflowing with the sound. No Nightengale did ever chant. More welcome notes to weary bands of travellers in some shady haunt, Among Arabian sands, A voice so thrilling never was heard in spring-time from the Cuckoo-bird, Breaking the silence of the seas, [snaps] Among the farthest Hebrides."
+        }
+      ],
+      "tags": [],
+      "uuid": "a0b4c369-f31f-4a24-8586-09a18a50992a"
+    },
+    {
+      "start_time": 719.5,
+      "end_time": 751.09,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Will no one tell me what she sings? Perhaps the plaintive numbers flow for old, unhappy, far-off things, and battles of long ago: Or is it some more humble lay,familiar matter of to-day? Some natural sorrow, loss, or pain, That has been, and may be again?"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e32be77-14f2-4909-b0a3-62eee951b704"
+    },
+    {
+      "start_time": 751.09,
+      "end_time": 780,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Whate'er the theme, the Maiden sang As if her song could have no ending; I saw her singing at her work, And o'er the sickle bending; I listened motionless and still; And, as I mounted up the hill, The music in my heart I bore, Long after it was heard no more. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "f6a05b1c-e83c-4a82-93c7-b52362b4219e"
+    },
+    {
+      "start_time": 780,
+      "end_time": 802,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Oh, wow. [clapping] That's affecting, Ifeoma. I'm really thrilled by how you you conjure so much mood, such passion for recollecting that Wordsworthian uh beauty."
+        }
+      ],
+      "tags": [],
+      "uuid": "03b9b381-41f6-4452-9dd7-c3929613c9d9"
+    },
+    {
+      "start_time": 802,
+      "end_time": 829,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " And I I feel when I started writing poetry William Wordsworth was one of the poets I looked to. And I remember Ode on an... Ode on... Tintern Abbey, I think, and Intonations of Immortality. Those were two poems I always turn to uh while trying to imitate these great poets."
+        }
+      ],
+      "tags": [],
+      "uuid": "8bbc63d3-7ce1-4a64-a42e-6713fb8ca848"
+    },
+    {
+      "start_time": 829,
+      "end_time": 860.299,
+      "annotation": [
+        {
+          "text": " And uh Titilope, thank you, also. And I I know one of your two of your literary influences are Sonia Sanchez and Maya Angelou. And uh I would want you to talk more about uh Maggie Smith, if possible, and then other poets or writers that have influenced, that have shaped your your poetic vision or even your social vision as well as a writer."
+        }
+      ],
+      "tags": [],
+      "uuid": "e73e7551-4814-4668-8282-8212ece22c9f"
+    },
+    {
+      "start_time": 860.299,
+      "end_time": 890.009,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And Ifeoma I also want you to talk more about your literary influences because I know that there's so much idyllic and pastoral quality to the the kind of poems I've heard you I've heard you read and uh this ideal that uh resonates in the kind of poetry you write in terms of landscape, uh birds, plateaus, hills, and the the the river."
+        }
+      ],
+      "tags": [],
+      "uuid": "f62338cd-032d-40c4-a3c0-172ea47707d5"
+    },
+    {
+      "start_time": 890.009,
+      "end_time": 909.09,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": " So, I would really appreciate uh if uh both of you can share what draws you to these these poets, these writers, and what you find fascinating or even illuminating about their their work."
+        }
+      ],
+      "tags": [],
+      "uuid": "e259a489-d7a3-4e55-972e-cc7ab869c213"
+    },
+    {
+      "start_time": 909.09,
+      "end_time": 937,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I'm deeply fascinated by people who are able to take sort of the quiet intimacies of everyday life and turn that into something that feels big and beautiful. Those kind of writers as reminds me that like just what is happening in your life in this moment can be a large statements. That poems don't always have to be epics to be epic, you understand what I mean."
+        }
+      ],
+      "tags": [],
+      "uuid": "9677288b-a318-44be-94f6-916624b9b805"
+    },
+    {
+      "start_time": 937,
+      "end_time": 962,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " And I think that it's particularly significant for me now in a time where so much of our writing is more insular than it used to be. We're not out in the world in the ways that we used to be so a lot of us writers are called to kind of to think about what within these four walls that we're confined to is still worthy of being elevated and honored and celebrated."
+        }
+      ],
+      "tags": [],
+      "uuid": "824bcfba-6795-4052-9015-b059e9a7371a"
+    },
+    {
+      "start_time": 962,
+      "end_time": 981.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " And that's particularly why Maggie Smith's work speaks to me. She so beautifully writes small moments very very well. She writes small moments to be a thing of beauty, and it's a skill that I I am etching away at."
+        }
+      ],
+      "tags": [],
+      "uuid": "997a639c-204b-4819-b475-0d5918eea308"
+    },
+    {
+      "start_time": 981.5,
+      "end_time": 1009.509,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " But I love all all artists. And I would say that my my work isn't only influenced by poets. But um I understand that I come in the tradition of Mabel Segun and even Buche Emecheta and writers who who in their time were creating work that that was beautiful in its simplicity and was a massive political statement of the time."
+        }
+      ],
+      "tags": [],
+      "uuid": "3a16bd8e-d9e5-4aeb-839c-cd18be02bc66"
+    },
+    {
+      "start_time": 1009.509,
+      "end_time": 1024.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " To be telling these stories in that time in those ways um by by women writers who aren't necessarily celebrated as part of the canon. Um, Toni Morrison, Maya Angelou, Sonia Sanchez, as you mentioned. Again for this idea..."
+        }
+      ],
+      "tags": [],
+      "uuid": "488eb356-51bb-4498-a81b-a3a3abcd7efe"
+    },
+    {
+      "start_time": 1024.5,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " Toni Morrison was a writer who always emphasized the idea that she was writing for a specific audience. And the gaze that she was writing towards was theirs. And so they were a lot of things in her work that were left unsaid. That is something I find really beautiful, as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "53d64435-bbdd-42f7-93f4-1346b9d0e8b2"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1061.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " And I mean I love music just as much as I love poetry. I listen to the poetry in music. I love Lauryn Hill and Erykah Badu. And so, when I'm sitting down to write, I'm not just drawing from influences of poets and writers, I'm drawing from the world that I live in. And and the the poetry that I hear in those things that aren't necessarily poetry on the surface. So that's that's the work that moves me."
+        }
+      ],
+      "tags": [],
+      "uuid": "5b31e862-f0b2-4abb-a820-91d5d363e3f3"
+    },
+    {
+      "start_time": 1061.5,
+      "end_time": 1071,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much for sharing. I also, I'm a fan of Erykah Badu, Lauryn Hill. And I I hope you also enjoy Asa."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0b83876-f645-4df5-ad7a-265612271011"
+    },
+    {
+      "start_time": 1071,
+      "end_time": 1073.63,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I love Asa. Oh! I love Asa."
+        }
+      ],
+      "tags": [],
+      "uuid": "aaf1f196-3449-498d-b296-fb5e5df741f9"
+    },
+    {
+      "start_time": 1073.63,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Oh great! Uh, Ifeoma, over to you."
+        }
+      ],
+      "tags": [],
+      "uuid": "dabbf919-813f-48b0-8513-ea4f6b2a8919"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Right, thank you. The Solitary Reaper, William Wordsworth, is the very first poem I came across in my life. The very first. Um. As I said as I've said before, I was a young refugee in in Ireland. We had just had just fled from Nigeria, Biafra then, to Libreville, Gavon. And from Libreville, after three months, I'd been in Poland. A family, a foster family took me and my, some of my siblings into their home in Ireland, in County Donegal."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd81961b-b023-4771-88ae-a3fdcc6b5157"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And so we went to school. Back in Biafra then. Back in Nigeria. We are still, you know, English is not our first language. Igbo is. We are all communicating in Igbo. And trying to learn English. You know is, was, make a sentence. This is a goat. This is a car."
+        }
+      ],
+      "tags": [],
+      "uuid": "6dfac9ce-5121-417f-9b8d-388693ab27fc"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1152.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And then I'm transported into Ireland. And I think they put me in primary four, or so, in five. And then, the teacher there is teaching us poems. I'd never come across any poems. So, this was one of the poems I came across in my life."
+        }
+      ],
+      "tags": [],
+      "uuid": "6aa24212-808a-476e-98f1-5fb97da8f740"
+    },
+    {
+      "start_time": 1152.5,
+      "end_time": 1177.269,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And the thing struck me. There's a woman in the field working and singing. And it reminded me of my own mother back in Africa. Every time she was working, doing chores, she was always humming her folklore, music from her village. Because she she didn't come from simply just my father. She was always working and singing."
+        }
+      ],
+      "tags": [],
+      "uuid": "cd21da3a-6e06-4c97-a476-3f2c587313ca"
+    },
+    {
+      "start_time": 1177.269,
+      "end_time": 1200,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " She reminded me of my mother. And it unleashed anguish. Because there were no photos, no telephones, nothing. Like we just imagined her, you know. And then the poem speaks of battles of long ago, you know. Matters of sorrow, of pain, so it resonated with me, and it stuck. Held me hostage."
+        }
+      ],
+      "tags": [],
+      "uuid": "234de25c-c619-4399-8254-6a7848972872"
+    },
+    {
+      "start_time": 1200,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " And um in order to recapture that ambience of my mother, you know. We learned this poem as a poem, but I used to sing it as a folklore.I converted it into folklore. Because in the family where I was was my. I was there with my younger sister, Agnes. Two of us with one family. My brother was elsewhere. My elder sister was elsewhere."
+        }
+      ],
+      "tags": [],
+      "uuid": "9307e883-dd45-48f6-b633-da8ca8ca864e"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1246,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, I converted this poem to a folklore. I used to sing Behold her, single in the field, Yon solitary Highland Lass! Ah! Reaping and singing by herself. Stop there, or gently pass! Stop there, or gently pass! Trying to convert it into a folklore. Like my mother used to do."
+        }
+      ],
+      "tags": [],
+      "uuid": "8dd31458-a4e4-4dd7-8972-68ebdf689212"
+    },
+    {
+      "start_time": 1246,
+      "end_time": 1276.109,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, this is the fact. This is what this poem means to me. Um because my writings later I I invoke this bucolic, this pastoral atmosphere. And um I also eulogize. Eulogize a woman. Eulogize a woman working, singing, lively. Giving pleasure music to passers by."
+        }
+      ],
+      "tags": [],
+      "uuid": "544d5289-9aac-40c2-b563-6422e1edfd5d"
+    },
+    {
+      "start_time": 1276.109,
+      "end_time": 1305.23,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, it uh introduced me to to the panegyric, you know? Singing the praise of women in my writings. They are there. But the writing has evolved, you know. As we will see later when we read the other other things we have done. This is the only um aspect of this event where we invoke other people's writing. Subsequently, we are going to go back to our work."
+        }
+      ],
+      "tags": [],
+      "uuid": "eff8a0f3-8d1b-4ada-9c22-b6d8667b30f9"
+    },
+    {
+      "start_time": 1305.23,
+      "end_time": 1315.22,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": " So, that is the that is the place this poem of William Wordsworth has in my literary cosmos. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "16949076-a48a-4aaf-85e2-6471b644eebc"
+    },
+    {
+      "start_time": 1315.22,
+      "end_time": 1353,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Ifeoma for sharing that bit about your development as a poet and a writer. Oh, just a quick one. I was wondering are there other writers aside from Wordsworth that shaped you as a poet and writer? Because I want to assume, I want to take the liberty to assume, that maybe someone like Chinua Achebe or Zulu Sofola or like Titilope mentioned Buchi Emecheta or maybe Esehagu. If possibly..."
+        }
+      ],
+      "tags": [],
+      "uuid": "02c5dc35-f6f4-4876-8425-7fff2decc69e"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1366,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Oh yeah, there are so many. Where do you start from? Because one thing a writer must do is to read, widely. Every writer must read. And so we have read so widely and, you know, meet them along the way."
+        }
+      ],
+      "tags": [],
+      "uuid": "c948a878-1898-44e0-af34-6739408e8b55"
+    },
+    {
+      "start_time": 1366,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Um John Donne, you know. I also like John Donne, in a way, you know. Some of his poems. Death Be Not Proud. That kind of thing, you know? Will Shakespeare's sonnets. So many sonnets. Shall I compare thee to a summer's day? Such like."
+        }
+      ],
+      "tags": [],
+      "uuid": "b270c0d0-8252-4403-9abe-4078b491d0e6"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1403.9,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Which, as I said, I studied the classics in university. English and French. And so, that gives you the whole literature of the English language and all the the French language. So, they all had impacted me, you know... French, English, Honoré de Balzac. All of them impacted me."
+        }
+      ],
+      "tags": [],
+      "uuid": "e0364b74-caa7-49d7-9397-b9cab0210302"
+    },
+    {
+      "start_time": 1403.9,
+      "end_time": 1425.89,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And, um, also Nigerian poets. Like J. P. Clark. You know? Who also talked about normal, day African experiences. Like the spirit child we met last week. The child that dies and comes again. Never to spoke about a night rain. You know, simple things that uh..."
+        }
+      ],
+      "tags": [],
+      "uuid": "da75cede-ed4f-4725-aa8c-5c1a73487503"
+    },
+    {
+      "start_time": 1425.89,
+      "end_time": 1444.22,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And in very simple language, you know? I was discussing with my sister the other day. She lives in Paris, which was... We were discussing one one article. I said, you see how simple the language is? You don't have to invent, you know... sounding verse."
+        }
+      ],
+      "tags": [],
+      "uuid": "f137cf2a-1991-4be9-b1cb-a4dc4af94257"
+    },
+    {
+      "start_time": 1444.22,
+      "end_time": 1467.289,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, the poetry of J. P. Clark. Very interesting... You know? He's a Nigerian writer. There's also, you know. And then the writings of um. There's a lady, Senegalese woman, who wrote Une Si Longue Lettre, So Long a Letter. You know, that's about... African romance."
+        }
+      ],
+      "tags": [],
+      "uuid": "0d87648a-2bd4-4bdf-8db7-58101863c073"
+    },
+    {
+      "start_time": 1467.289,
+      "end_time": 1470.48,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Mariama Bâ"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca5ffba1-b2f9-4759-a591-76d40669e776"
+    },
+    {
+      "start_time": 1470.48,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So many influences, you know, on me. Because as a writer you're encouraged to read wide. And so all of these things you know, consciously, you pick here, you pick there, you pick here, you pick there, and then you have a melange, so many."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c19f6fd-5b6b-42f9-a8a3-0eaf21a3cb39"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Yeah, thank you very much for the fan-fantastic response, Ifeoma. If I could, I'll come back to this question of polygamy, which is something you you touched on in African Romance and a a your own ake on... and Mariama Ba who wrote So Long a Letter, yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "1da69ba9-ae01-48e2-8f7a-cc66d94e908c"
+    },
+    {
+      "start_time": 1512,
+      "end_time": 1540.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And so uh be-before we go to the next conversation, I want you to read a an excerpt from your work. And then after you are finished reading it, Titilope will go next. And after that I'll ask another set of questions. And then before we go for the final reading, I'll allow the audience to ask you both questions. Because I know they are. They are brimming with questions for both of you."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd59a10d-7b95-4432-94a7-100f8c90d492"
+    },
+    {
+      "start_time": 1540.5,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  So, Ifeoma I invite you to read just a short excerpt from your work. And then after that Titilope."
+        }
+      ],
+      "tags": [],
+      "uuid": "30f2eee2-299e-4ed3-b69d-95f9b0044254"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Right, thank you, Uche. I'm going to read from this book African Romance. African Romance. It's a... It's situated in a polygamous home where the the woman is complaining because her husband doesn't have time for her."
+        }
+      ],
+      "tags": [],
+      "uuid": "95c55191-1d12-45a3-87a4-ecda8fabbc12"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And there there's a back and forth. She abuses the husband. The husband abuses her back. They both chime in and say, oh, you know. When two people are fighting in, you know, African society people gather. And then some are hating this one. Some are  calling... That kind of thing."
+        }
+      ],
+      "tags": [],
+      "uuid": "6cf7c76b-e29a-46d3-9cd5-d6f227c1e2e7"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1608,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, but after awhile the woman realizes that. Hey, who are the people causing this trouble in my my household? It's the women outside. You know, the mistresses the... And so she addresses them at some point. So, that is the point I'm going to read now."
+        }
+      ],
+      "tags": [],
+      "uuid": "e64edce4-f6a7-452f-a829-c41349f0e9cf"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1584,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Because awhile ago I spoke about the... like you know like eulogies. But the woman is is human. She's not an angel. She has her warts and all. And so this is why I chose this passage. To show that, okay, we praise women and all. But women are also the cause of our problems. They could be accused of misogyny! Because they are the cause of the woman a woman's problem. So, let me read the passage and then later we can talk more about it. [clears throat]"
+        }
+      ],
+      "tags": [],
+      "uuid": "67cd5f9b-c190-4fdb-9404-d369433458d9"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1678,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, you Ronke and Bisi, Ifunanya. And Chichi, Amina and co. You shady throng. Anonymous arsonists. Miss Nobodies. You have broken into my home and made away with my walking stick. You stay outside in your part of town and wreck havoc on the inside of my foyer. Remote control in hand you have quenched the light in my dwelling. You control my husband, his going, his coming, his travells out of town."
+        }
+      ],
+      "tags": [],
+      "uuid": "b7483e31-9e45-4dce-8753-60717bcdf99a"
+    },
+    {
+      "start_time": 1678,
+      "end_time": 1693,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  In town. You flash like lightening, and he hurries into the smallest room to dial your number and speak in low tones amid flushing waters. You 419er reaping where you did not sow."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b264038-0f34-4f5a-a4c4-d88a773538ff"
+    },
+    {
+      "start_time": 1693,
+      "end_time": 1714,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You weave Ponzi into your head, braids winding like a footpath into the abyss. You dress in flimsy rags in the name of fashion. Your neck long like the ostrich, bare like a vulture's, is naked to the eye down to your navel."
+        }
+      ],
+      "tags": [],
+      "uuid": "7199999d-4e64-4a40-849b-90d95df677ce"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1727.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Your tight corsets outline your excesses, matching left and right, up and down, from one joint to the other, from one spot to the other. Zombies in search of monied men."
+        }
+      ],
+      "tags": [],
+      "uuid": "828c9559-ce24-4d11-9b7d-76d9088c80e9"
+    },
+    {
+      "start_time": 1727.5,
+      "end_time": 1758,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You have swooped on my home like a pitiless hawk. Broken into my pantry and stolen my meat. Now, my soup pot is bare like your shoulders. My meager meals lie like me cold and untouched. Of what use is a wife when her Maigida is homeless? What is a wife to do when her soup goes stale before her waiting eyes?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b0cedfb2-c16e-414b-be21-3bcc6b4652fd"
+    },
+    {
+      "start_time": 1758,
+      "end_time": 1779,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You have pocketed my man like change. Made me a temp widow. Made away with my provider. Our carpet is scattered. Our roof leaks a-plenty. The curtains are faded.  The chair torn in places. I live in squalor because of you."
+        }
+      ],
+      "tags": [],
+      "uuid": "ba2e4d93-b747-47a5-87a1-18c920eac9be"
+    },
+    {
+      "start_time": 1779,
+      "end_time": 1802.009,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You have turned my husband's head away from home. When I talk to him, he snaps at me. But when you flash like thunder he dashes away and talks in whispers. [laughs] His voice becomes flirty. You! You! A woman like me, you are my tormentor. Thank you!"
+        }
+      ],
+      "tags": [],
+      "uuid": "e2c98015-4084-4a50-8036-69bc82648c85"
+    },
+    {
+      "start_time": 1802.009,
+      "end_time": 1829.92,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Wow! Thank you very much for that dramatic performance of the... monologue. And uh there's a spot that we'll come to the to the question where you talked about women are their worst enemies. And for me I I found that a bit provocative. But we'll talk about that soon enough. So, Titilope, could you go next?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9eb1d77-028b-4bf7-bbfa-d107bcbdd075"
+    },
+    {
+      "start_time": 1829.92,
+      "end_time": 1861.45,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Yes, um, this poem is called Missing, and it's from my collection This is How We Disappear. And it tries to draw parallels between the missing the kidnapped Chibok girls, the missing and murdered indigenous women in Canada and across the world. And just migration patterns of women across the globe. How we disappear in physical and psychological ways. Um so I'll just get into the poem. Missing."
+        }
+      ],
+      "tags": [],
+      "uuid": "3f100d04-7387-402f-a3de-12869f899a27"
+    },
+    {
+      "start_time": 1861.45,
+      "end_time": 1881.019,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " As much as I wish to, the president said, I cannot promise that we can find them. They converted to Islam, married off to the fighters, Abubakar Shekau said. They were taken across the border into Cameroon, witnesses said. A negotiator told us, at least three died in the early days, from snake bites, malaria, dysentery."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ef998d0-4c5f-4c99-9be7-6773215423e7"
+    },
+    {
+      "start_time": 1881.019,
+      "end_time": 1895.49,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I'm outraged and heartbroken, Michelle Obama posted a picture of herself holding a sign. Please know this, Malala Yousafzai wrote, we will never forget you. Years passed without a whisper from the girls."
+        }
+      ],
+      "tags": [],
+      "uuid": "b70c7cd1-c478-43db-abb7-3ba02c7fb04b"
+    },
+    {
+      "start_time": 1895.49,
+      "end_time": 1914.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " My father's gun in the upstairs closet will shoot its first and only shot when I am ten and the armed robbers come rattling our gate like rabid dogs. My three sisters and I huddled in our night gowns on his bedroom floor. We have to leave this country, he whispers to my mother, his finger trembling on the trigger."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6a27485-3701-47d4-8ba5-721cafa647d2"
+    },
+    {
+      "start_time": 1914.5,
+      "end_time": 1926.2,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " That night my father will almost kill a man to protect our childhood. He will never see the words I love you but in the chamber of his heart is one loaded bullet."
+        }
+      ],
+      "tags": [],
+      "uuid": "0dd4d69d-5732-448c-9ba4-7215d0c7fbad"
+    },
+    {
+      "start_time": 1926.2,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Midnight at the water's edge. Blessing and three thousand refugees wade in, silent and barefoot. They fall into the sea. Soon, most will wash back ashore with no names to call but the numbers scribbled on their clothes. For weeks, the smuggler's telephones on the other side, silent. No one to answer for the girls, with skin like rich palm oil bloodying the water."
+        }
+      ],
+      "tags": [],
+      "uuid": "92bfa600-9736-416c-95f1-2f5d6a01bb6d"
+    },
+    {
+      "start_time": 1951,
+      "end_time": 1975.89,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  They build fences in Morocco, paid the nation's on the coastline to keep the teeming bodies back. Tomorrow, Europe may no longer be European, said Qaddafi. We will use human beings as weapons, cram the black bodies into fishing trawlers, launch them from Libya into the sea. The ungovernable, the slaves, the concubines and prostitutes, burn it to the ground."
+        }
+      ],
+      "tags": [],
+      "uuid": "8f70973e-c08c-4a26-af9d-2523953f54f0"
+    },
+    {
+      "start_time": 1975.89,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Swift flowing river snakes its way through the heart of Edmonton to lay still in the winter of our arrival. Our hands turn white, the air like shards of glass to our faces. That night our family shares a pizza in our basement apartment. We fall asleep, three on the bed, three on the floor, our bellies bloated with hope. We tread water for twenty winters between our yesterdays and the tomorrow we were promised."
+        }
+      ],
+      "tags": [],
+      "uuid": "862e8437-5fdc-4698-8f28-e53ec9eb32d8"
+    },
+    {
+      "start_time": 1943,
+      "end_time": 2023,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Everything here is borrowed or stolen: the language, the land. My own body, far flung. I lose my old English, my tongue twice colonized. All the women I know are running toward, or away, and everything I know of disappearance begins with water."
+        }
+      ],
+      "tags": [],
+      "uuid": "8bf5c02c-364a-4a14-9964-a1c61cb9e8a2"
+    },
+    {
+      "start_time": 2023,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " The women, the girls, their thirsty mouths open skyward, rainwater muddying the forest floor. The six month ocean crossing that pulls the salt from our skin. The dam breaking inside my mother. The first blood sacrifice that pulled me from one world into the next began inside a woman, sliced down the middle, so another woman could emerge whole."
+        }
+      ],
+      "tags": [],
+      "uuid": "b9f21f4a-dd72-443a-968b-a7613c67e6f1"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2063,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  All I know of magic making and survival I learnt at birth. And I want to defend my country. Which one? I mythologize my grandmother, I write stories about warrior women with thunder between their thighs."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e574c3b-67db-422c-870b-7c0bc4f8a667"
+    },
+    {
+      "start_time": 2063,
+      "end_time": 2086,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": " Then the girls disappear, and no one goes looking. I ask my mother the Yoruba word for shame. Do you know they only drank water when it rained? What kind of country does nothing when two hundred girls disappear? A thousand indigenous women stop in their tracks, crane their necks back in unison. Tears flood the highway till even the rivers overflow."
+        }
+      ],
+      "tags": [],
+      "uuid": "1d379ca8-4e32-4088-9581-5bab4b4ba0b9"
+    },
+    {
+      "start_time": 2086,
+      "end_time": 2098.469,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  The girls had disappeared for three weeks before we knew their names. Then we spoke them. Two hundred and seventy-six in Chibok, but thousands more, missing and murdered across the country, answered."
+        }
+      ],
+      "tags": [],
+      "uuid": "d7ab2c1a-532a-466c-9cf2-53e82097fea9"
+    },
+    {
+      "start_time": 2098.469,
+      "end_time": 2122.599,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  It is customary to wait seven days to name a child. Touch her lips with water and palm oil, honey and salt, kola, give her a taste of the bitter and the sweet, the joy and the pain. Pray for her a spirit with the resilience of water. All of this just say: stay. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "29c96194-b953-4d2c-ac2d-d38ef33b5c6e"
+    },
+    {
+      "start_time": 2122.599,
+      "end_time": 2166.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Wow. I I'm just speechless, Titilope. Anytime I just listing to your poetry, I'm always left stunned by its sheer beauty, by the evocative strength of the lines. I remember listening to This Woman is Not Your Mother where you talked about the this woman is not a the right of passage. This woman is not a project. And this woman is not a sin."
+        }
+      ],
+      "tags": [],
+      "uuid": "eec3517b-11c3-410a-8ac8-e3c11f5c886f"
+    },
+    {
+      "start_time": 2166.5,
+      "end_time": 2221.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  This brings me to my second question about the the connection in your work and Ifeoma's work particularly Merchants of Flesh. And I I notice that both of your works deal with the silencing of women in society, of female invisibility, commodification, and trafficking and objectification of women. And uh how that can call attention to the tragic plight off the the girl tried, women caught up in global sex trade, as we see in Merchants of Flesh. Or even women caught up in an affair of the legal or justice system as Ifeoma depicts in Waiting for Maria."
+        }
+      ],
+      "tags": [],
+      "uuid": "bb7ee798-0ccd-4c87-9f19-97cd3b220e2c"
+    },
+    {
+      "start_time": 2221.5,
+      "end_time": 2277.53,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I really like that novel because I I like the way Ifeoma used the broken down, dysfunctional vehicle known as Black Maria, which is used to transport inmates or the accused to the prison. And it's so striking that's the the vehicle is grounded. It's it doesn't work. And it makes me think sadly about our country, Nigeria, as a stationary, grounded vehicle that doesn't move. And eventually decides to move. When it was repaired in the novel somehow it got filled with smoke and the inmates in the vehicle were choked to death by the fumes."
+        }
+      ],
+      "tags": [],
+      "uuid": "44e619ae-654a-47e4-83f8-420d83025c4d"
+    },
+    {
+      "start_time": 2277.53,
+      "end_time": 2311.26,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And uh we we know that the the Chibok tragedy in 2014 reflects the sort of dysfunction in the body politic of Nigeria. So, my question would be uh the condition of women within Nigeria and generally in Africa is still bleak. How can we get literature to incite more conversations and awareness about the commodification of women."
+        }
+      ],
+      "tags": [],
+      "uuid": "e60af923-1ac0-497b-9930-84abb3b71780"
+    },
+    {
+      "start_time": 2311.26,
+      "end_time": 2339.309,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  So I'll I'd like Titilope to respond first, and then after that Ifeoma you can take a shot at that question. How what can literature do to further stimulate conversations around female objectification, sex trafficking, human trafficking, and all the structures that demean and degrade female personhood."
+        }
+      ],
+      "tags": [],
+      "uuid": "9eeba095-f32a-4258-892f-03837162fcf7"
+    },
+    {
+      "start_time": 2339.309,
+      "end_time": 2369.67,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I guess I'll start by saying that I think the condition of women across the world um is worthy of conversation. I don't think that it is uniquely a Nigerian or African problem. But there are gaps as you said. There are a... There is progress made in in some ways and and not enough in in many ways. And I think we see that the world over."
+        }
+      ],
+      "tags": [],
+      "uuid": "ebdc8492-cee5-400d-b8ff-b593e8e9f9db"
+    },
+    {
+      "start_time": 2369.67,
+      "end_time": 2386.59,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um, I think that the role of art in general is to reflect the times. To reflect our humanity. And then leave that to the world. To take that in and reflect upon its in in whatever ways they will."
+        }
+      ],
+      "tags": [],
+      "uuid": "25d57440-e6a3-4dd0-b10e-668f972ac077"
+    },
+    {
+      "start_time": 2386.59,
+      "end_time": 2410.849,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  For me I think it is a radical thing to not only write about trage-tragedy and suffering but also to writes about joy. I think it is a radical thing to hold those two things the side by side, which is why if you if I go back to the poem I read first, this this beautiful um, a, depiction of motherhood and bringing new citizens into the world."
+        }
+      ],
+      "tags": [],
+      "uuid": "ca265ec4-a81a-4bba-893b-5b42d13d97e7"
+    },
+    {
+      "start_time": 2410.849,
+      "end_time": 2430,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  It is why it even in a collection like This is How We Dissapear, where I'm talking predominantly about the disappearance of the Chibok girls, I'm also swinging that that pendulum back to the idea of the power and magical nature of womanhood. And the ways we reinvent ourselves to survive, to move beyond."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a4cbcaa-1113-4f14-ab23-acb8b2e20bd2"
+    },
+    {
+      "start_time": 2430,
+      "end_time": 2448,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I think the ways that we change the world is just by telling through true and authentic stories. By telling diverse stories. By choosing, by making a radical choice to center joy in our work."
+        }
+      ],
+      "tags": [],
+      "uuid": "04968f54-c82a-41cb-8caa-9123802d87be"
+    },
+    {
+      "start_time": 2448,
+      "end_time": 2463.429,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  To say this is who I am as a fully formed human being. These are my dreams and aspirations. These are my hopes and concerns. And to believe truly that that has a place in in the larger conversation about humanity."
+        }
+      ],
+      "tags": [],
+      "uuid": "d3b3b7fd-7a32-4703-b242-2b5f57e24147"
+    },
+    {
+      "start_time": 2463.429,
+      "end_time": 2481.539,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I guess I I guess what I'm trying to say is that I don't believe that it is our duty as artists to um to be town criers of all the injustices you know of the world. It really is our duty to just reflect the times."
+        }
+      ],
+      "tags": [],
+      "uuid": "3279622d-b6d5-4b00-97a2-38561a2b4157"
+    },
+    {
+      "start_time": 2481.539,
+      "end_time": 2494,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  And the times are complicated and muddy and strange and beautiful and broken. Our job is to is to reflect all of that and let that stand in the world. I hope that answers your question."
+        }
+      ],
+      "tags": [],
+      "uuid": "865f166a-e7aa-449c-83ea-bbba85693c8d"
+    },
+    {
+      "start_time": 2494,
+      "end_time": 2499,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  That's an excellent response, Titilope. So, over to you Ifeoma."
+        }
+      ],
+      "tags": [],
+      "uuid": "e4bb6659-d11e-45a4-a3bb-65003259da92"
+    },
+    {
+      "start_time": 2499,
+      "end_time": 2526.96,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Well, I agree with Titi. That the writer has to capture the zeitgeist of the times. The chronicler, yes, to tell us what is happening in this society. So that years later other generations coming, reading your work, can have an idea how people dressed, how people ate. What happened in the society."
+        }
+      ],
+      "tags": [],
+      "uuid": "2142dbba-7af3-4b27-b025-8802ad793154"
+    },
+    {
+      "start_time": 2526.96,
+      "end_time": 2542.539,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But I don't think it's just to write it and keep it there. We we are calling for action. Calling for a change. It's more than just writing, capturing it and keeping it for... no."
+        }
+      ],
+      "tags": [],
+      "uuid": "a253b1a5-524e-4efd-bbd7-a4f4e9a5e5c7"
+    },
+    {
+      "start_time": 2542.539,
+      "end_time": 2578,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Many artists, many writers, many others have been locked up. Many journalists, many have been killed because of what they write. Because of what they they... Chinua Achebe was in prison. Wole Soyinka himself. So many have been. Have lost their lives because of the pen. What they wrote. Because they are speaking to somebody and someone is listening. And so we hope our government will listen. Will read this book, these stories, and see what needs to be done. And do it. And change our society. For the better."
+        }
+      ],
+      "tags": [],
+      "uuid": "c813dc7d-7a22-4a60-ad4f-4936a5f7e60d"
+    },
+    {
+      "start_time": 2578,
+      "end_time": 2593,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  About the commodification of women, you know, involved in human trafficking back home in Nigeria, Africa, even here, women have been dissapearing. Everywhere. Women in America disappear. But I think it's it's a..."
+        }
+      ],
+      "tags": [],
+      "uuid": "bf8ffce2-931b-4937-ae20-1c4f9335797f"
+    },
+    {
+      "start_time": 2593,
+      "end_time": 2630.15,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  The problem with us back home is I think absence of rule of law. Or breakdown of law and good. Because the law there to serve as a deterrent. To capture criminals. But back home we find that there is impunity. People do things. Chibok girls disappear. Nothing happened. Dapchi girls disappear. Everyday. Everyday. They are come they are going to schools. They are going to schools and kidnapping teachers and students. Everyday."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d7215c8-d92b-4106-94fb-6eabe8ce5e35"
+    },
+    {
+      "start_time": 2630.15,
+      "end_time": 2655.55,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Which means they don't care. Which means the the government can't catch them. Can't do anything to them. So, many schools are being closed down in Nigeria now because they don't want this. They don't want kidnapping and ransom and all that. Many schools. Many people are are are what we call... street children, urchins. They are not getting educated. In the millions."
+        }
+      ],
+      "tags": [],
+      "uuid": "1fa4371d-bafe-4bd0-82c6-62b4b9175750"
+    },
+    {
+      "start_time": 2655.55,
+      "end_time": 2670.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, breakdown of law and order is to blame. The woman, ten women, hundred, two hundred will dissapear. And you are negotiating? Sometimes you see goverment negotiating with the bandits. That's one of the problems."
+        }
+      ],
+      "tags": [],
+      "uuid": "311171be-3c80-4360-981f-915f99076ad3"
+    },
+    {
+      "start_time": 2670.5,
+      "end_time": 2697,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  As for commodification, it's not only women, no, that are being objectified. It's our consumer society... And our selfish society. We only think of ourselves. So, I can kill. I can do blood rituals for money. I can kill, take another life, to get what I want. So, I find that people, men now are also be sold into slavery."
+        }
+      ],
+      "tags": [],
+      "uuid": "53ddd5b2-4b14-488b-a27a-dc00f875a7e6"
+    },
+    {
+      "start_time": 2697,
+      "end_time": 2731.139,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Children! Babies. Babies are being bought now. See they will just go to the grocery shop and they can order babies. Women are held in baby factories where they put ten, twenty women. Impregnate them. And then sell the... What of organs? People now... people will harvest their organs to give to other people, who are... to be alive. While the other one dies. So, there is a lot of uh."
+        }
+      ],
+      "tags": [],
+      "uuid": "05ddd4f7-f58b-4f48-9ae7-22ef00c6d574"
+    },
+    {
+      "start_time": 2731.139,
+      "end_time": 2763,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You know, I think I always say. My my grandmother used to say that the world is going on a journey. We don't know where it will end up. We don't know the timelimess. It keeps moving. New things are coming in that we never saw as kids. Before as kids we used to play. The whole day you go out in the morning. You go to houses. You play. Eveningtime. They send you back home. Now you can't risk that. Because there are abductors. People can't even send a child on a message. Again. go and buy a coke for me. No."
+        }
+      ],
+      "tags": [],
+      "uuid": "d100b08b-2117-4d68-8131-278d83cd0b59"
+    },
+    {
+      "start_time": 2763,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, things have changed. Society is changing. And it's because of this consumerist and selfish attitude of of people. That everything is now is now a commodity. Everything can be sold. Anything can be sold in order to get by. So that is um. What I have to say about that."
+        }
+      ],
+      "tags": [],
+      "uuid": "0696f24b-aa7d-42cf-ac45-1e15724dde7a"
+    },
+    {
+      "start_time": 2782,
+      "end_time": 2797.159,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  As for the writer. Yes. He has to capture this. But he has too much. The powers that be. He has too much the power that be to do something about this. This dislocation in society."
+        }
+      ],
+      "tags": [],
+      "uuid": "cab7817b-ee7a-40c6-83a1-3701704f2a7a"
+    },
+    {
+      "start_time": 2797.159,
+      "end_time": 2824.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Ifeoma, for that sobering response. And I I think you know we are all implicated one way or another in this. The the dysfunctional system we find ourselves in. Whether it's uh to commodify and objectify women or even to sexualize men in a way that makes that makes them amenable for objectification."
+        }
+      ],
+      "tags": [],
+      "uuid": "b982a2c4-bdde-4d72-ae3b-7279c88fad26"
+    },
+    {
+      "start_time": 2824.5,
+      "end_time": 2858.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I think it's really important to also question our actions and our entaglement with this sort of system that reinforces female subjugation. Male objectification. And so thank you very much for all these wonderful responses. I've been enriched by the conversations we've been having."
+        }
+      ],
+      "tags": [],
+      "uuid": "f56ec9b4-1e27-489e-b852-e4b910a4c031"
+    },
+    {
+      "start_time": 2858.5,
+      "end_time": 2890.44,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I think this brings me to the final reading. And immediately after this I'm going to turn it over to the audience, so they can ask questions and uh we we can talk more about some of these intersections of ideas in your responses. So, for this final reading, I would like to invite Titilope to go first and then Ifeoma will wrap it up. Yeah, okay."
+        }
+      ],
+      "tags": [],
+      "uuid": "47f82c20-fe40-47e0-9db2-35897ee835e4"
+    },
+    {
+      "start_time": 2890.44,
+      "end_time": 2910.23,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you so much again for all of it. It's been an honor really to share the space with you. For your careful questions and consideration. I'm in awe of the fact that this is my life and job and I get to talk about art and make art for a living. It is a supreme privilege."
+        }
+      ],
+      "tags": [],
+      "uuid": "0fc6035f-a8cd-47fb-b293-d59a3b4e2189"
+    },
+    {
+      "start_time": 2910.23,
+      "end_time": 2922,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  In the interest of swinging the pendulum towards joy, I actually did a poem switch. And I'm gonna do this poem instead. It is, as yet, untitled."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c20cc5c-8cac-4182-8b66-4e12e5e5c304"
+    },
+    {
+      "start_time": 2922,
+      "end_time": 2943.019,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  There are prayers, generations in the making, that pushed through time to arrive in the moment of their awakening. That is to say, my presence, every measure of magic that exists in my life, is likely the answer to a prayer made at the altar of an ancestor, for whom I only existed as a dream."
+        }
+      ],
+      "tags": [],
+      "uuid": "ab77d71e-bd33-4c0a-a700-06b58fa62a86"
+    },
+    {
+      "start_time": 2943.019,
+      "end_time": 2959.8,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  What grace. To be known and loved before your birth. Isn't that the history of Blackness across the globe? Isn't that the very ingredient of our improbable acts of survival? That we have always made an offering into a future you will never see."
+        }
+      ],
+      "tags": [],
+      "uuid": "d17ee52d-6f6f-405d-a56a-84771e79f630"
+    },
+    {
+      "start_time": 2959.8,
+      "end_time": 2978,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  In our stories, in our song, in our arts, is the prophetic declaration. That in a time beyond now this gift becomes a rope, a hammer, a piece of bread, something to build a life. A lighthouse for the children who will one day walk this soil."
+        }
+      ],
+      "tags": [],
+      "uuid": "b3d394d1-1a0e-4c7a-a4ce-3b315e500569"
+    },
+    {
+      "start_time": 2978,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Black as the night sky, we offer them the stars to know that we were once here. And how beautiful we were. How excellent, how brave. We were once here. And beyond our magic was a right to ease, to abundance. To a life beyond strength and survival. That our rest and refuge was worthy of celebration too."
+        }
+      ],
+      "tags": [],
+      "uuid": "5d89bbd0-6b85-41cb-b481-f67efecfdbaf"
+    },
+    {
+      "start_time": 3000,
+      "end_time": 3016.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  And we were Black every day. On a Monday, when the city stomped the concrete. On a Sunday, when the church choirs troubled heaven. Everyday, in the face of what threatens to undo us, we are here. A soft place in a hard world."
+        }
+      ],
+      "tags": [],
+      "uuid": "92e13f77-acd5-4f63-a678-5cc46ba04efc"
+    },
+    {
+      "start_time": 3016.5,
+      "end_time": 3037,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  We make love and we make magic. We birth our babies and kiss our elders. We make each day a ritual of remembering. We create this time capsule and offer it to generations, who may never see us, but will know us and, thus, know themselves. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "c8300aaf-2a86-4fe9-8a05-c669a7727902"
+    },
+    {
+      "start_time": 3037,
+      "end_time": 3057.079,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very very much Titilope for these beautiful lines in your poetry. And I I just noted down a lot of lines, so I can reflect on later on. Uh so, Ifeoma. Over to you."
+        }
+      ],
+      "tags": [],
+      "uuid": "c474b222-2106-4d48-87f6-d01517701805"
+    },
+    {
+      "start_time": 3057.079,
+      "end_time": 3066.36,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you, Titilope, for that very nostalgic. You know it just takes me back in many years, yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "fde8c283-3814-488b-9478-3e490a172ab7"
+    },
+    {
+      "start_time": 3066.36,
+      "end_time": 3112.28,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Okay, this. I'm going to read from Waiting for Maria. As Uche just said already, Maria is a Black Maria that was grounded. And no money to repair it. Couldn't take the inmates to court. Those who were condemned to death and appealed didn't know the status of their their cases. So uh, as Uche already said, NGOs, you know charitable organizations, contribute money to repair this vehicle. And it moves and then something happens, and..."
+        }
+      ],
+      "tags": [],
+      "uuid": "eba6a43d-df08-424c-8ba9-53551f595a07"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Meanwhile some some inmates had been released in a corrupt manner. Because there is what we call amnesty. Once Nigeria had independence Chief George of the magistrate of the head of state grants amnesty to some some prisoners."
+        }
+      ],
+      "tags": [],
+      "uuid": "28e6a598-f8d8-4044-83eb-17b5e966e522"
+    },
+    {
+      "start_time": 3134,
+      "end_time": 3151,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But the prison warders themselves, it's not free. It goes to the highest bidder. And so she comes and says, bring money and I'll put your name and you get amnesty. So one or two or three people got their freedom through that method."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ae23cac-8351-4052-9764-4faaedcb4a27"
+    },
+    {
+      "start_time": 3151,
+      "end_time": 3180,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And now they know that these humans in there cannot have justice. Cannot have justice. That this is an unjust system. Completely. And that society itself brought them into the into jail to death row. The things that society did and did not do that led them to to this place to this malicious malicious place."
+        }
+      ],
+      "tags": [],
+      "uuid": "14878fdb-66b3-45b1-a071-516685bfe016"
+    },
+    {
+      "start_time": 3180,
+      "end_time": 3212.92,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And so they they organize a jailbreak. And as a jailbreak, they know the topography and geography of the Freeman Fort. They know everything, they know that... That all the money voted for repairs and rennovations find their way into the pocket of the the wardens. And so they  think, I'm shackled. I'm dilapidated. And easily, you know..."
+        }
+      ],
+      "tags": [],
+      "uuid": "8db06760-964f-40c6-99a9-2f33c975d122"
+    },
+    {
+      "start_time": 3212.92,
+      "end_time": 3238.01,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  I'm going to read from the Daily Mirror. It's a newspaper publication. The Controller-General of prisons, Mr. Isaac Pam, has been ordered to proceed on a preretirement leave with immediate effect. Sources close to the presidency say this is not unconnected with the jailbreak, which occurred in one of the nation's prisons last week."
+        }
+      ],
+      "tags": [],
+      "uuid": "18de49b3-f348-4956-ab07-7788b4702fb0"
+    },
+    {
+      "start_time": 3238.01,
+      "end_time": 3267,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  It should be recalled that early last week Freeman Fort was attacked by unknown persons during a period of prolonged blackouts. The aging perimeter walls were easily knocked down, enabling the inmates to escape to freedom. Three female guards sustained injuries, nonfatal. The presidency has set up a panel to investigate the incident."
+        }
+      ],
+      "tags": [],
+      "uuid": "c94a1c8b-abe8-4687-9fce-2cf33af791d7"
+    },
+    {
+      "start_time": 3267,
+      "end_time": 3293,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  The break, coming on the heels of the suffocation last week of inmates on their way to court showed a breakdown in the administration of the prison service, a government spokesman added. When our reporter contacted the N. B. S. spokesman over the phone, he explained that his boss had been out of the country at the time of the incidents."
+        }
+      ],
+      "tags": [],
+      "uuid": "b2e14b58-7897-40cf-8ed3-b874ec5607ea"
+    },
+    {
+      "start_time": 3293,
+      "end_time": 3308,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  However, in spite of the telephonic washing of the hands, Mr. Pam is expected to hand over to his Deputy, Mrs. Guyit. That is the... Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "17e48e00-3625-4d5b-a870-bc40940ec0a6"
+    },
+    {
+      "start_time": 3308,
+      "end_time": 3337.079,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Ifeoma. Like I mentioned earlier I I like the way you touch on margin. What I call marginal narratives. And these narratives of people who female inmates whose condition certainly would be much worse than their male counterparts experience because I..."
+        }
+      ],
+      "tags": [],
+      "uuid": "1764e511-3303-4199-9caa-9327ee56484c"
+    },
+    {
+      "start_time": 3337.079,
+      "end_time": 3376.4,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  The the method of imagining someone in jail, particularly if the person was a male, is disturbing as it is. And so to imagine a female person living under such gruesome punishing conditions is something I can't seem to wrap my mind around. And so thank you for narrating that experience. For giving voice to these voiceless and silenced women in an unjust system."
+        }
+      ],
+      "tags": [],
+      "uuid": "fed4d282-a059-414b-9e56-82ad1f79b3f4"
+    },
+    {
+      "start_time": 3376.4,
+      "end_time": 3388,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And so I uh. Again I just want to appreciate both of you for your readings, your discussions, and the insights you've shared with me and everyone who is here."
+        }
+      ],
+      "tags": [],
+      "uuid": "912faa90-5648-405a-898c-f45633765613"
+    },
+    {
+      "start_time": 3388,
+      "end_time": 3418.28,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  And I I don't want to enjoy all the privilege of asking you questions. And so I'll open up the space for people to ask their questions. And please unmute your mic if you want to ask a question and please be concise. Be uh precise. Just go straight to the point. So other people can have the opportunity of asking questions also."
+        }
+      ],
+      "tags": [],
+      "uuid": "baf753d0-cd47-4b87-a9ff-d2438e86cd56"
+    },
+    {
+      "start_time": 3418.28,
+      "end_time": 3434,
+      "annotation": [
+        {
+          "text": " Audience 1 :",
+          "bold": true
+        },
+        {
+          "text": "  I have a question. Hi, Ifeoma. I've read all your books, and I'm wondering what you're, what you're currently working on. And what, when to expect it because I am a huge fan of yours. I'd like to know what you are currently working on."
+        }
+      ],
+      "tags": [],
+      "uuid": "799ab2d9-73ae-42d7-8c76-904e60c89132"
+    },
+    {
+      "start_time": 3434,
+      "end_time": 3451,
+      "annotation": [
+        {
+          "text": " Audience 1:",
+          "bold": true
+        },
+        {
+          "text": "  And I really like your smile. It just captivates me. I'm just, I'm glad they are taping this thing. Because with your smile I can always be happy. Titilope you too, you know. But I want to. I I have to read your book. But I'm referring this to this question to Ifeoma, currently."
+        }
+      ],
+      "tags": [],
+      "uuid": "dc94aa0f-dd10-4834-93c4-3079ab62e60b"
+    },
+    {
+      "start_time": 3451,
+      "end_time": 3475.519,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You know the way writing goes. Last time I was in Toronto I I welcomed Professor Soyinka. He came to Toronto. And um I asked him the same question. I said, when are we going to expect something from you? And he said, ah! When you see it, you take it. As I writer [laughs]. I shouldn't answer that."
+        }
+      ],
+      "tags": [],
+      "uuid": "5d6cd48d-0e8d-42ec-881d-0b0d9fe76942"
+    },
+    {
+      "start_time": 3475.519,
+      "end_time": 3493.88,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  It depends on the muse, you know. The muse can... You can have writer's block, you know? You have writer's block and then, it appears. That's what writing is. So he told me, when you see my next work, you take it. The work has come out. The Chronicles from the Happiest People on Earth. So, anyway."
+        }
+      ],
+      "tags": [],
+      "uuid": "58845c7e-31e2-4461-8010-aa942fe8d02f"
+    },
+    {
+      "start_time": 3493.88,
+      "end_time": 3521.619,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  This program, writer-in-residence program, has given me the focus I need to, you know, abjure other things and focus on my work. And I actually have a novel or two in the making. That are, you know, approaching the denouement, if I can put it that way. So I'm now looking for an agent and a publisher. So, very soon you will. You will get it. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "cbfd3c8d-77b2-41d1-84f8-1d8f1f3cb46f"
+    },
+    {
+      "start_time": 3521.619,
+      "end_time": 3554.559,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much. I'm also looking forward to your next novel, as well as... I know Titilope is working on something. And if she also wants to share just a sneak peek into what you're working on. Is there a spoken word album? Is it another collection that is a follow up to This is How We Disappear? Or rather now you so much focused on joy, tenderness, hope, healing. Maybe that's what we should be looking forward to?"
+        }
+      ],
+      "tags": [],
+      "uuid": "48cf4420-c44e-4bce-8ac5-0c39a97cc646"
+    },
+    {
+      "start_time": 3554.559,
+      "end_time": 3588.61,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  [laughs] It's going to be a surprise to both you and I. [laughs] Um but I I also almost always have several things going at the same time, which isn't necessarily a great uh discipline. But definitely a new spoken word album and definitely another collection. I I'm heading off to a residency in the next month um to really streamline some of these ideas. And and I'm hopeful that brand new the work will come out of there. So, stay tuned, I guess, is the short answer to that question."
+        }
+      ],
+      "tags": [],
+      "uuid": "2c71bfda-d3ee-4be0-8529-90984f4a53ed"
+    },
+    {
+      "start_time": 3588.61,
+      "end_time": 3595.829,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  [laughs] Great! So, more questions please for uh Titilope and Ifeoma."
+        }
+      ],
+      "tags": [],
+      "uuid": "1cbabc1d-61cd-4f95-8b5c-0b38d28e628d"
+    },
+    {
+      "start_time": 3595.829,
+      "end_time": 3614.3,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Thanks so much to the three of you. This is... is and continues to be amazing. Just wonderful. Titilope, I have a I have a question for you. I was really struck by the radical joy that your poetry celebrates. And in particular in the poem you just read it seems to be intergenerational in its force."
+        }
+      ],
+      "tags": [],
+      "uuid": "de375d8b-7622-494a-8c7f-687fa2e7fec2"
+    },
+    {
+      "start_time": 3614.3,
+      "end_time": 3634.5,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  And I was thinking about that in relation to your bringing together of the violence against women both here in Canada and in Nigeria and the legacies of colonial intergenerational trauma that perpetuate those systems of violence that threaten to keep us stuck. Right? That word came up earlier."
+        }
+      ],
+      "tags": [],
+      "uuid": "4743c9e1-04cd-4e7d-9ff2-13f1a286282c"
+    },
+    {
+      "start_time": 3634.5,
+      "end_time": 3648.53,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Am I following you correctly? Is that then the radical power of joy? That it pushes back across time against the constraints that hold us back from change? Is that...?"
+        }
+      ],
+      "tags": [],
+      "uuid": "86eff82a-dac7-495a-a741-9c7bad30d36e"
+    },
+    {
+      "start_time": 3648.53,
+      "end_time": 3681.309,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Yeah, I think um. We have generations of stories to know that the world does what the world does. In its own time. And I truly do believe that our work as human beings, as women and as people, is to push back against that by saying that I'm alive and I'm here. And even in all of this I'm still making joy. I'm still making peace. I'm still making something beautiful. And I think that's what artists do."
+        }
+      ],
+      "tags": [],
+      "uuid": "8cf4b373-5a9e-4151-9280-d906c8d8eadf"
+    },
+    {
+      "start_time": 3681.309,
+      "end_time": 3709.5,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  The fact that even with everything that's happening we continue to produce is that same kind of radical force that says, this is our our work. Just by virtue of existing in the world is a is a powerful force. And so I applaud and celebrate anyone who is able to write, paint, create with anything in this time. I think that is like an incredible show of strength."
+        }
+      ],
+      "tags": [],
+      "uuid": "64b71e91-a986-4e7e-be6f-d37e91be78c5"
+    },
+    {
+      "start_time": 3709.5,
+      "end_time": 3735.559,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um and so yeah I guess that's that's that's the way that I think about my work and and conversations around art. I'm I'm hopeful that in a time beyond, like when I'm no longer here, when people look over the work that I created it gives them a sense of that intergenerational passing down. A sense of that people have survived something before this and will continue to survive in the future."
+        }
+      ],
+      "tags": [],
+      "uuid": "7b6ab3a5-bcfe-4595-a933-51685e0a69ec"
+    },
+    {
+      "start_time": 3735.559,
+      "end_time": 3747.67,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Oh thank you, Mike. So there is a question from Tom. Ifeoma, I wanted you to respond to that first. And then Titilope will go immediately after."
+        }
+      ],
+      "tags": [],
+      "uuid": "de03e5ca-3eb4-4002-9540-330e88d6e774"
+    },
+    {
+      "start_time": 3747.67,
+      "end_time": 3777.59,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  So, the question for both of you. The climate crisis is having a disproportionate impact on some nations, the poorer more than the affluent. At least so far. Has this crisis had an effect on your creative work or your thinking as a writer? That's like what's the relationship between the climate crisis and your your creative practices."
+        }
+      ],
+      "tags": [],
+      "uuid": "d5901f0b-994c-4d78-bcf4-41d7227e3d08"
+    },
+    {
+      "start_time": 3777.59,
+      "end_time": 3810.059,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Well, thank you for that question. Um, I think some poems, which I write on past events on Plateau. Um. And um. It was as a result of desertification back home in Nigeria. And a movement of nomadic herdsmen with their cattle in search of water, in search of grazing fields for their their their herds."
+        }
+      ],
+      "tags": [],
+      "uuid": "57305249-28cb-4dc3-98a1-6e82dfdf39ef"
+    },
+    {
+      "start_time": 3810.059,
+      "end_time": 3838.549,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And in so doing, because they made the pastor and the farmers, and uh trouble broke out. Because they were going to fight over resources, over grass. If somebody is a farmer planting crops. And you you come with animals that eat crops, there's bound to be conflict. So, I've written some poems, you know to in answer to that. In answer to the desert..."
+        }
+      ],
+      "tags": [],
+      "uuid": "8dd1949a-5b23-45e7-be12-a92375ea52cf"
+    },
+    {
+      "start_time": 3838.549,
+      "end_time": 3864.409,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Back home in Africa our experience of climate change is the drying up. For instance, the heating and all. Is the drying up of the... And so cattle movement down south is. And it's war. And its very. Its uh its uh it's lots of bloodletting. It's not just stop here. Go here. They they kill. They decimate people."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c6bb2b6-1797-42ba-855f-058c4671f5d3"
+    },
+    {
+      "start_time": 3864.409,
+      "end_time": 3898.21,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And the nature of their culture. Nature of their practices. These people are monogomous. You are polygamous. So, if we allow you to stay, in the next generation you may come for us. So, it's a... It's a do or die affair. And so, I've captured some of these uh. These aspects of the climate change, desertification, in some of the poems I've written in the Plateau State where a lot of these... battle has errupted."
+        }
+      ],
+      "tags": [],
+      "uuid": "1aa394f7-b67a-449c-ae49-6abce31cb534"
+    },
+    {
+      "start_time": 3898.21,
+      "end_time": 3914,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And then back home too in sources of engery. How are we men still dependent on trees? Dependent on fire wood to cook, smoke, and all. So, I've captured that in some of my writings."
+        }
+      ],
+      "tags": [],
+      "uuid": "00d9ac63-59b8-4239-a71b-a07a1a479974"
+    },
+    {
+      "start_time": 3914,
+      "end_time": 3945,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But um... But most cannot dichotomize the effects of the climate change between here and there. Because it's one world. It's one globe. Whatever happens over there eventually effects us here. If I go look at Edmonton. The middle of winter. We are having nine degrees! Ten degrees! And I'm asking. What is going on here? Is this winter? Is this how my idea of winter is in Edmonton? And they say, don't be decieved. We have fluctuations."
+        }
+      ],
+      "tags": [],
+      "uuid": "cfa71beb-f4f9-4e75-9ba7-c484d9fdc5d6"
+    },
+    {
+      "start_time": 3945,
+      "end_time": 3975.92,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, it effects everybody, climate change. Whether in Europe, in American, or in African. And you cannot, you cannot say, it's in Africa. How is it in America? How is it? Because it's one world. What affects you here eventually affects the other person. So in our writing, in my writing, I've tried to capture it in the poems and in the the culture that I describe in my books. Thank you. I hope I've answered and given insight."
+        }
+      ],
+      "tags": [],
+      "uuid": "42c986c3-981f-464c-9679-cd1ce9e712c4"
+    },
+    {
+      "start_time": 3975.92,
+      "end_time": 3978.019,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you. That was a wonderful answer. I I totally agree that we need to share these stories about what's happening all over the world, right? It's coming together and communicating that this way that is really going to make people realize what's going on and how urgent it is. So, thank you, yeah."
+        }
+      ],
+      "tags": [],
+      "uuid": "7acdce95-6c5f-4d75-9d6d-4892eb9f42b8"
+    },
+    {
+      "start_time": 3994.969,
+      "end_time": 3999.429,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Um Titilope, I think you should also answer that."
+        }
+      ],
+      "tags": [],
+      "uuid": "6206feb9-c578-4aba-9f02-b9b55b301e64"
+    },
+    {
+      "start_time": 3999.429,
+      "end_time": 4036.699,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um a poet friend of mine by the name of Brandon Wint has this interesting take on how the climate crisis is an extension of this great colonial projects, right? And and as a result of that Blackness and Black people are very closely related to this idea of the ways in which men have always wanted to conquer the earth and conquer other people. And it is a result of that conquering that this crisis emerges, right? I think it's it's very interesting and something that I I've been ruminating over."
+        }
+      ],
+      "tags": [],
+      "uuid": "7749fe7a-cd3c-4f69-b0dd-9273cee3772b"
+    },
+    {
+      "start_time": 4036.699,
+      "end_time": 4062.039,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um, while I don't specifically talk about the climate climate crisis in my work, I do think what is central to the work that I write is this connection to nature. You will always hear something up about the land and the trees and the water in my work. The ways... And those things are intentional because I think um we are so deeply connected to the earth that it is not removed from us."
+        }
+      ],
+      "tags": [],
+      "uuid": "b92dfc4f-8651-42e5-9065-2c2e33ec9509"
+    },
+    {
+      "start_time": 4062.039,
+      "end_time": 4093,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  And so when I'm writing I I tried to bring a sense of honor to to those ideas. Um, yeah and I think it may be in the subtlety of that is an acknowledgement that there's something to be preserved and honored and cared for in that. And by caring for eachother and ourselves, it bleeds over into the ways that we care for the earth that we live on. And so if, all of those things, I guess I'm saying, are interconnected. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "fc4f874d-4cf6-43cc-b4ee-964c5aaaf093"
+    },
+    {
+      "start_time": 4093,
+      "end_time": 4106.77,
+      "annotation": [
+        {
+          "text": " Audience 2:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you, yeah. I I agree. I think that's the hopeful part of it, right? Is is that connection to nature and and the realization that we we we are nothing without nature. So, yeah, thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "b9fd1dc7-43b5-4f4b-aff4-5c69473ee2fc"
+    },
+    {
+      "start_time": 4106.77,
+      "end_time": 4119.149,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you so much, Titilope and Ifeoma. Really appreciate the words that you shared today. And for taking the time out to share great literature with us so early in the year."
+        }
+      ],
+      "tags": [],
+      "uuid": "709276f4-7b50-4499-a5d4-1f36650c717d"
+    },
+    {
+      "start_time": 4119.149,
+      "end_time": 4144.779,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  My question is around, um, actually for both of you, all three of you, kind of where you see, uh, African literature, Nigerian literature going. And to sort of frame that question, um. In this conversation there's been many sort of mention of other writers. Whether it's Chinua, Wole Soyinka, um, contemporary African writers. For me someone like Teju Cole."
+        }
+      ],
+      "tags": [],
+      "uuid": "a0651814-94c1-422f-bbc2-7439d4f7b44c"
+    },
+    {
+      "start_time": 4144.779,
+      "end_time": 4169.5,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  And so I I feel like there is at this time. There isn't like a shortlist of Nigerian writers throughout the world. You find that there are Nigerians doing great literature throughout the world and have been doing so. And for the younger generation I would also say that most recently you had just the explosion of a music, Nigerian music and afrobeats and afropop, whether its Wizkid, Burna Boy."
+        }
+      ],
+      "tags": [],
+      "uuid": "612e93e1-6b26-46e2-b945-082514a4c166"
+    },
+    {
+      "start_time": 4169.5,
+      "end_time": 4197,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  So, there's, there really has been in my eyes sort of this uh spotlight on Nigerian culture and really the impact of Nigerian culture in so many different realms. Uche, you mentioned Nollywood and how Nollywood has even impacted. Not impacted. But sort of been spotlighted in things in like Netflix. So, I feel like there are so many different avenues to sort of tap into Nigerian culture."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f3e1d98-a024-4284-aae3-63af8269eab7"
+    },
+    {
+      "start_time": 4197,
+      "end_time": 4232,
+      "annotation": [
+        {
+          "text": " Audience 3:",
+          "bold": true
+        },
+        {
+          "text": "  And I think in the way that we are connected now there's also a very stark line of what came before, what is now, and you know what is to come. And so it's just to kind of frame it again to say there's so many different examples of new contemporary Nigerian art. And I'm I'm going to ask both of you kind of where do you see yourselves as uh. Where do you see Nigerian literature sort of heading towards. Um if you could give us maybe some some themes that you have been able to observe."
+        }
+      ],
+      "tags": [],
+      "uuid": "2908f7c8-d39a-448a-8273-8735c73bb3a4"
+    },
+    {
+      "start_time": 4232,
+      "end_time": 4272.229,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you so much for that question. Yes, you are right to observe that um Nigerian art and culture are growing in leaps and bounds. Not just Nigerian, too. Last year we had almost all the prizes won by Africans. All the major literary prizes from the Nobel to the Booker to... All won by Africans. So, it's like the world is waking up now too. It's opening the gate to let in new ideas and new um new cultures. You see?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd16f3c5-6cc1-4f8d-83fb-dcc1af3b2122"
+    },
+    {
+      "start_time": 4272.229,
+      "end_time": 4287.3,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So in Nigeria this, as you also pointed out, it's not just in the in writing. In literature. It's also there in the music. There in Nollywood. It's there in dance. Everything!"
+        }
+      ],
+      "tags": [],
+      "uuid": "7f054144-5302-418f-840f-ea8d4e8eb469"
+    },
+    {
+      "start_time": 4287.3,
+      "end_time": 4328.39,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And, um, I think the reason for this is the social media. It's always been very prolific in Nigeria. It's always been very very prolific, right? From my school days we have Nigerian poets. So many of them. But now with social media the world is just. At a click you can read poems from all over the world. You can see people. You can see artists. You can watch movies from Nigeria. Everywhere! So, the the creativity has always been there in my view. Now with the social media, the publicity is is following."
+        }
+      ],
+      "tags": [],
+      "uuid": "f741ca71-86f5-408a-8dec-ce5ce6b4173e"
+    },
+    {
+      "start_time": 4328.39,
+      "end_time": 4352.64,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And um it's a a cross-fertilization of ideas, as well. Because Nollywood is growing. Because at their fingertips they have Hollywood. They have Bollywood. They have other experiences. And so they are able to see what is happening there. And say, why can't I do this? Why can't I replicate this? This is in Bollywood in India. We can do this as well."
+        }
+      ],
+      "tags": [],
+      "uuid": "a3792498-c77e-4a7e-882f-1e69b45c8477"
+    },
+    {
+      "start_time": 4352.64,
+      "end_time": 4380,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  And so people are tuning in and um hearing music. People who under normal circumstances would not have access to to, you know, to a producer. They they are producing. They are producing and pushing it out on the internet. And so you have to reckon with them. Tiktok... and they push it out. So, you are seeing them more. But they've always be there."
+        }
+      ],
+      "tags": [],
+      "uuid": "e4112b52-9499-4325-90c9-26660969d77d"
+    },
+    {
+      "start_time": 4380,
+      "end_time": 4413.75,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Another thing that I I came across was, you know, almost illiterate children in Nigeria. Now they make a plane. And they fly it. They they tweak it, and the thing takes off and lands maybe a hundred metres away. They make a car. They make all sorts of gadgets. They make a bicycle. And they are illiterate. They have not been to school. You see? They have always been there, but now with the social media they are coming into the limelight. And they are saying, oh!"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4946841-10b1-4107-ac2b-c0e3efe7bcc5"
+    },
+    {
+      "start_time": 4413.75,
+      "end_time": 4446.5,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  There's a lot of this. There is a lot of that. But it's always been there. As I say, we grew up with storytelling. Storytelling has been [snaps fingers] with us. And so, we pass it on from one generation to the other. And as we pass it on we add. As we say, we add salt and pepper, you know? We add things to it. But now with social media, again Tiktok, and you know Whatsapp. You create something and you push it out, and the world says, wow! There is a recrudescence of these things. But they have always been there, in my view."
+        }
+      ],
+      "tags": [],
+      "uuid": "6cf52157-7521-4c8e-a297-d090bb9c9644"
+    },
+    {
+      "start_time": 4446.5,
+      "end_time": 4466,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  First I'll say that I think there's an audacity and pride with which Nigerians enter every space that they're in. I think it is one of our greatest gifts, and I think that makes it so we enter spaces and we, you know, we dominate [laughs]."
+        }
+      ],
+      "tags": [],
+      "uuid": "874ae348-51c1-4dd4-a63e-312d5741adac"
+    },
+    {
+      "start_time": 4466,
+      "end_time": 4483.34,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  But I will say that I completely with what Ifeoma said about the reason. There's, there's sort of a democratization of sharing and voices, um, that's happened with social media. And just the the the more connected way that the world is."
+        }
+      ],
+      "tags": [],
+      "uuid": "e23c842e-cd81-4618-9f8b-4f255870661f"
+    },
+    {
+      "start_time": 4483.34,
+      "end_time": 4509.21,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  In I think in in in past generations there was this idea that there was one, only room for one literary star. One African, one Nigerian literary star. And as such you had... it was like cycles of one person per time could really occupy the space. And and the kinds of stories that were being told had to sit within a certain kind of space to be, um, noticed and to be celebrated."
+        }
+      ],
+      "tags": [],
+      "uuid": "dd4c532d-18ff-4bcd-a132-d32fc532c8e8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Now, because we're now in a space where everyone's voices can be heard everywhere in in real time, I think a lot, I'm talking about literature in particular now, that a lot of young Nigerian writers now have the freedom to write about just about anything. You know like there are new generations of of young Nigerian writers who are writing magical realism. Who are writing whatever. Like whatever the mind can touch they're creating this work."
+        }
+      ],
+      "tags": [],
+      "uuid": "9c6bfbf7-1092-4474-acea-773a444835f5"
+    },
+    {
+      "start_time": 4538.46,
+      "end_time": 4557.89,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Because now it feels like there's space. Like the sky is big enough for all the stars to exist at the same time. And and I think that's why we're seeing such diverse diversity of thoughts happening it seems at a fever pitch. Happening all at the same time. Um, where do I see Nigerian literature? All, anywhere that it chooses."
+        }
+      ],
+      "tags": [],
+      "uuid": "2378d938-5b59-48d1-8ede-2ed12bd04483"
+    },
+    {
+      "start_time": 4557.89,
+      "end_time": 4579.029,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  You know I think I'm really excited about some forthcoming work. And and work that is bending, turning language on its head and coming up with new ideas. And telling stories that we haven't seen before. So, I think I think it is limitless. I'm I'm excited about the idea that..."
+        }
+      ],
+      "tags": [],
+      "uuid": "42552abf-265a-4db6-a2db-04543c9419fa"
+    },
+    {
+      "start_time": 4579.029,
+      "end_time": 4604.59,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  I mean, even the idea of publishing in the traditional sense is evolving. Some writers self publish, and that's not such a horrible thing anymore, you know? And you know now we have audio books and we can hear writers actually read and speak their words out loud. I think the possibilities are quite endless. And I think it's it it's an exciting time for the culture generally."
+        }
+      ],
+      "tags": [],
+      "uuid": "e75e1b50-61b0-4415-a4e3-c01874699e2e"
+    },
+    {
+      "start_time": 4604.59,
+      "end_time": 4639.149,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  There are two questions. One from... How would you define your poetic style? That's for you. And then there's a question for both of you from Carlo who is asking, besides publishing what are other plans and programs you have to propogate the suggestions found in your works through some of the people who should really hear them. The people I mean here are those who are really affected by some of these issues addressed both in reference to culture and politics."
+        }
+      ],
+      "tags": [],
+      "uuid": "d1dce2df-e978-4b31-8fea-211099c56fa8"
+    },
+    {
+      "start_time": 4639.149,
+      "end_time": 4675.55,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  My poetic style is [laughs] whatever is in the season that I'm in in that moment. Um, I don't I don't define that style. And I don't I don't think about that very deeply. I just move in the direction of what kind of work feels urgent to me in that time, which is why I write for the page. I write for the stage. I do spoken word albums. And I think the work of a an artist or poet is expansive. And we can do all the things. So, um, I guess maybe the the short answer is, I don't know. I just create what what feels good to me in that moment."
+        }
+      ],
+      "tags": [],
+      "uuid": "c827fc22-1d44-4ec1-987c-c66b29e2871c"
+    },
+    {
+      "start_time": 4675.55,
+      "end_time": 4703,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Um, and in in continuance of that to the other question I think art is expansive. Like I don't I don't think just publishing for the page in enough. I agree. I think both of us um, have, like perform our work and speak our work out loud. And allow that work to exist in many different forms. And I think that's part of getting, of allowing the work to have reach, you know?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8eedef3c-845c-4273-a3d2-6ade60e50a79"
+    },
+    {
+      "start_time": 4703,
+      "end_time": 4739.09,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Yeah, I do I perform on the stage for this very reason. And I perform across the world, um, because I also believe in the power of the spoken word. Hearing the words out loud. Because um books are also a privileged thing. Not everybody can own a book. Read a book. But I think there's something in the physical experience of a performance that is that is accessible. And I guess I'm just trying to evolve my work into many different mediums such that it has as much reach and can touch as many people as possible."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d9df87f-eaef-415c-8132-f4f4b578d879"
+    },
+    {
+      "start_time": 4739.09,
+      "end_time": 4747,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Yeah, thank you very much, Titilope. Ifeoma you can take a stab at that question."
+        }
+      ],
+      "tags": [],
+      "uuid": "760cafb3-3da9-4370-921c-13b2de1bfedc"
+    },
+    {
+      "start_time": 4747,
+      "end_time": 4785.88,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  Okay, what are we doing to nudge the the people, the culture, and the politics? Well, well, well, well, well, well. Um, whatever we write, what, write put in a book is already there in the public space. And our people say that uh no deafer person than person who does not want to hear. And so somebody who does not want to hear. Oh, he can hear. He has the ability to hear. But he does not want to hear. That's the deaf... That's deafest person you have."
+        }
+      ],
+      "tags": [],
+      "uuid": "1193e446-8abe-4849-8e1b-d983245e766b"
+    },
+    {
+      "start_time": 4785.88,
+      "end_time": 4829.05,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So all this age we are talking about in books. That we are writing in books. That we have chronicling. They are already there. Government is aware. It's already in social media, if you like. In newspapers. Most of my, most of the things I write are, for instance, I gather from newspapers. What goes on. What people are doing. For instance, you read about ritual killing. Somebody even lured his mother to a hotel room and tried to stab her to use her for a ritual killing. It's all... it's there in the papers. So, if I put it in my, in my book, for instance, it's a narrative fiction. It's to capture the zeitgeist. The times that we are living in."
+        }
+      ],
+      "tags": [],
+      "uuid": "a653cfea-0cf1-4eb1-be44-ff6c8db81708"
+    },
+    {
+      "start_time": 4829.05,
+      "end_time": 4854.489,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But government is aware. The police is aware. Women are aware. Even as it happens you see people reacting. What is the world coming to? Hold your children? Hold this... So the reactions are there. And government is there. And if government wants to do something, government can. And I think the solution, one of the soutions."
+        }
+      ],
+      "tags": [],
+      "uuid": "18ceccee-2be8-47e4-976e-4d2e29d98fdd"
+    },
+    {
+      "start_time": 4854.489,
+      "end_time": 4880,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  People keep saying, you must have strong institutions. You must have strong institutions. That's what we lack. We'd rather have strong personalities. You cannot. You cannot write something critical of the president or the governor or those in power. You cannot. So, we don't have the strong institutions to to tackle these problems. These social problems."
+        }
+      ],
+      "tags": [],
+      "uuid": "b9b54cf1-ce59-4650-9596-7e487bc72349"
+    },
+    {
+      "start_time": 4880,
+      "end_time": 4906.72,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But they know already that the problems are there. They cannot claim that they do not know. They know that there are urchins, street urchins. How many millions of children are out of school? They know! They see them hawking. As they are going to work, they see children nine, ten, eleven selling... on the road, selling bananas on the road. And they should be in school."
+        }
+      ],
+      "tags": [],
+      "uuid": "af3dc960-c8bf-42c3-9b3e-5cb642e4c97c"
+    },
+    {
+      "start_time": 4906.72,
+      "end_time": 4920,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So? The deafest person is the person who does not want to hear. Government is aware of these problems. If government wants to do something it can do something."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd444d7d-f593-4f0b-8852-614df7e2a69c"
+    },
+    {
+      "start_time": 4920,
+      "end_time": 4945.92,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  But as as a writer to capture it in our stories. This is what is happening. There's... I think wrote her memoirs. I thought it stranger than fiction. Some of the things we write. Some of the things happening back home. When people here read them here they think... it's not possible, is this? But they are happening!"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a28238b-a0d2-4576-b382-a3f831827ce6"
+    },
+    {
+      "start_time": 4945.92,
+      "end_time": 4976.119,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  You see? So the writer is to capture it and put it there. So then ten, twenty, thirty, fifty years. People come and say hm, this is what, this is what was happening there? Yes! And government is aware. Government is there. Bandits are coming and kidnapping girls. What have they done about Chibok? What have they done about Dapchi? No? They are there. And the bandits have their mobile phones and... you you can't even get them through your mobile phones?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5657e7a4-38f3-4cec-a87f-c57aab261e21"
+    },
+    {
+      "start_time": 4976.119,
+      "end_time": 5004.25,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, government is aware. Yesterday, they are closing schools. Ah, they say security is too much. Ah, please, close your school, so that they don't come and cap-please! Close your schools. Is that what government should do? Should government close the schools? Or go after the bandits? So, you have the whole area. So many children are out of school. Because government has closed schools due to insecurity. But you are supposed to provide security!"
+        }
+      ],
+      "tags": [],
+      "uuid": "dca01af7-2046-4f95-84fe-aac9654c8fe3"
+    },
+    {
+      "start_time": 5004.25,
+      "end_time": 5034.329,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, we writers we capture the the thing. You chronicle it. As we see it. As it's happening. But let the government not claim that they are not aware, not aware. You are aware! It's happening there. You read the papers, you see it. You are aware. Do something. Wake up! Do something. That's why the last, um, the last demonstration we had was called sorosoke. Speak up. Speak to power. Speak truth to power."
+        }
+      ],
+      "tags": [],
+      "uuid": "52433336-08f9-4de9-babe-ccae6faa4439"
+    },
+    {
+      "start_time": 5034.329,
+      "end_time": 5045,
+      "annotation": [
+        {
+          "text": " Chinwuba:",
+          "bold": true
+        },
+        {
+          "text": "  So, that's what I can say. As a writer, you write. And then leave it to those have the means to act. Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "2104b12c-a386-41b5-90af-3112b55f5fc0"
+    },
+    {
+      "start_time": 5045,
+      "end_time": 5052.699,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much, Ifeoma and Titilope for those insights and responses."
+        }
+      ],
+      "tags": [],
+      "uuid": "17f97eba-e466-454d-8200-90346c37a5f6"
+    },
+    {
+      "start_time": 5052.699,
+      "end_time": 5090,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  We are almost exceeding our time here. And although there is a question for Titilope, but I think... Titilope if you are disposed to answering those questions or one of the questions, uh uh you can. Or... can reach out to you. And I don't know how you want to take that. But we have to... in the next few seconds we should be rounding off. Titilope, do you want to respond to that or?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5645ec62-5ff0-4900-831c-ebfae0e3614b"
+    },
+    {
+      "start_time": 5090,
+      "end_time": 5106,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  Yes, I can do it quickly. Yes, my work is absolutely influenced by oral traditions. That is the tradition I grew up in. All of us had aunties and mummies who would come into the room and command the space just by telling a story. And so that is where I was raised. And that's where I I will remain."
+        }
+      ],
+      "tags": [],
+      "uuid": "68cc2021-9496-4353-bf84-faf157c468cb"
+    },
+    {
+      "start_time": 5106,
+      "end_time": 5133,
+      "annotation": [
+        {
+          "text": " Sonuga:",
+          "bold": true
+        },
+        {
+          "text": "  As for poetry collections, Maggie Smith, Good Bones. Warsan Shire, um Teaching My Mother How to Give Birth. And in her upcoming collection, which I've not read but I'm already recommending, it's called Praise the Daughter Who Raised, uh Who Raised Herself With the Voice in Her Head or something like that. Anything Warsan writes read it. Um Claudia Rankine, Citizen. The list is endless. But you can reach out to me offline, and I will chat with you some more."
+        }
+      ],
+      "tags": [],
+      "uuid": "dcb4ca72-e226-432f-a348-09907a4fde7a"
+    },
+    {
+      "start_time": 5133,
+      "end_time": 5176.5,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you very much. Once again I just want to say thank you Ifeoma Chinwuba and Titilope Sonuga for your fantastic responses and your amazing readings. And I, like I mentioned earlier, have been enriched by this conversation. And I just want to thank you for your patience and everyone who came around for your support of this event. And our time is up, but I hope you had fun. So and I want to encourage you to have these conversations in other spaces. To reach out to Titilope and Ifeoma and carry on this conversation."
+        }
+      ],
+      "tags": [],
+      "uuid": "0f28729a-3a7a-475e-8b11-d9038f6b857e"
+    },
+    {
+      "start_time": 5176.5,
+      "end_time": 5195.529,
+      "annotation": [
+        {
+          "text": " Umezurike:",
+          "bold": true
+        },
+        {
+          "text": "  So, at this point, I would like to invite Mike to formally close the event. And again thank you to SpokenWeb and the department of English and Film Studies for making the space available to us. So, Mike over to. Thank you, once again."
+        }
+      ],
+      "tags": [],
+      "uuid": "b307a47f-dcba-4535-91fd-f23aa9d0b571"
+    },
+    {
+      "start_time": 5195.529,
+      "end_time": 5219,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Thank you so much, Uche. Well, I'd I'd like to conclude this wonderful event by offering thanks to everyone involved. First to Ifeoma and Titilope for agreeing agreeing to share their work and thoughts and audacity and pride with us today. And to Uche for agreeing to be our generous host and contribute to the liveliness of this exchange. Thank you all so very very much."
+        }
+      ],
+      "tags": [],
+      "uuid": "6576814d-75f7-4b2c-8d17-d40cef584597"
+    },
+    {
+      "start_time": 5219,
+      "end_time": 5189,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  I want to thank my colleagues at the University of Alberta Dr. Chelsea Miya and Sean Luyk who launched the planning for this event and helped to bring everyone here together. And Jason Camelot at Concordia, Montreal. And all of our friends across the SpokenWeb network who are so committed to building communities of trust and collaboration in meaningful ways that have a positive impact on the world around us. Thanks to Claire and Grant for today's technical support and their always cheerful professionalism."
+        }
+      ],
+      "tags": [],
+      "uuid": "167c4ca2-ec98-45e5-b63c-c9b7ef76e121"
+    },
+    {
+      "start_time": 5189,
+      "end_time": 5258.649,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  This SpokenWeb event has been supported by the Social Science and Humanities Council of Canada and the Department of English and Film Studies at University of Alberta."
+        }
+      ],
+      "tags": [],
+      "uuid": "088d07e5-ffc9-407c-baef-e7dda437247c"
+    },
+    {
+      "start_time": 5258.649,
+      "end_time": 5276.13,
+      "annotation": [
+        {
+          "text": " O'Driscoll:",
+          "bold": true
+        },
+        {
+          "text": "  Finally, I'd like to thank all of you are in attendance for joining us today and to wish to wish each of you all the  best in the future. Have a wonderful day. Have a wonderful evening wherever you may be. Thank you for joining us and take care."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e9960ac-0737-4379-9356-b1eb33a81634"
+    }
+  ]
+}
